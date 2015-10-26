@@ -1,7 +1,7 @@
 #!/user/bin/perl
 
 ##
-##         Admin control panel finder __ Last version 1.1 (correcting)
+##         Admin control panel finder __ Last version 0.1 (beta test)
 ##
 
 use HTTP::Request;
